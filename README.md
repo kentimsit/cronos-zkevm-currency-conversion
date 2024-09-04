@@ -6,6 +6,8 @@ The prices of CRO, LCRO, ETH, DAI can be obtained from Coingecko.
 
 The prices of zkCRO, ybETH, ybUSD must be collected from the wrapping contracts on Ethereum mainnet.
 
+The prices of vUSD, vETH are collected from an off-chain oracle.
+
 This demo includes a front-end interface to peform currency conversions.
 
 ## Run locally
